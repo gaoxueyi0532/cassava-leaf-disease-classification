@@ -1,0 +1,6 @@
+difficulties
+1. background interference, include other plants, land etc.
+2. multiple different categories object occure in one image.
+3. Uneven light intensity in different parts of one image.
+4. how to carry on focus catch
+Rethinking the Inception Architecture for Computer Vision
